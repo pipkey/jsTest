@@ -1,0 +1,14 @@
+.nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-size: 30px;
+    font-weight: 800;
+}
+.link a{
+text-decoration: none;
+color: rgb(71, 71, 226);
+}
+.link a:hover{
+    color: rgb(235, 158, 65);
+}

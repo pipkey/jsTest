@@ -1,0 +1,21 @@
+/* nav {
+    border: black 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(232, 83, 30);
+} */
+
+nav span {
+    margin: 15px;
+    font-size: large;
+    font-weight: 700;
+}
+
+ul{
+    list-style: decimal ;
+}
+
+p{
+    font-size: 10px;
+}

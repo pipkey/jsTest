@@ -1,0 +1,15 @@
+.data{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.namePers{
+    font-size: x-large;
+    font-weight: 700;
+}
+.namePers:hover{
+    color: dodgerblue;
+    cursor: pointer;
+}

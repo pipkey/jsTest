@@ -1,0 +1,37 @@
+.Wrapper{
+    border: rgb(240, 195, 112) solid 2px;
+    width: 400px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: palegoldenrod;
+    border-radius: 30px;
+}
+h4{
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+}
+
+.red {
+    color: black;
+    border: red 2px solid;
+    outline: none;
+    background-color: red;
+}
+
+input {
+    width: 250px;
+    height: 30px;
+    font-size: 20px;
+    padding: 5px;
+    outline: none;
+
+}
+button {
+    margin:15px ;
+    height: 40px;
+    font-size: 20px;
+    padding: 5px;
+}
