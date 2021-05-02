@@ -1,18 +1,18 @@
-.sixNav{
+.navWrap{
     height: 70px;
     width: 100%;
     display: flex;
     justify-content: space-evenly;
-    align-items: center; 
-    background-color: rgb(232, 83, 30);
+    align-items: center;
+    background-color: rgb(61, 57, 56);
 }
 
-.sixNav a{
+.navWrap a{
 text-decoration: none;
 color: rgb(217, 233, 68);
 font-size: 20px;
 font-weight: 600;
 }
-.sixNav a:hover{
-    color: rgb(49, 83, 169);
+.navWrap a:hover{
+    color: rgb(164, 167, 174);
 }
